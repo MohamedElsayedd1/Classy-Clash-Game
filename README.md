@@ -214,31 +214,3 @@ You've provided a substantial amount of C++ code for a game project called "Clas
      git remote add origin https://github.com/yourusername/ClassyClash.git
      git push -u origin main
      ```
-
-### LinkedIn Post
-
-Once your GitHub repository is set up, you can craft a LinkedIn post to share your project. Here’s a draft:
-
----
-
-🚀 **Exciting News from the Classy Clash Development Team!** 🎮
-
-We’re thrilled to share our latest project: **Classy Clash**, an engaging action game developed using raylib! Dive into a world where strategy meets excitement. Test your skills against various enemies and explore a beautifully crafted game world.
-
-🔹 **Features:**
-- Dynamic character and enemy interactions
-- Intricate collision detection
-- Immersive combat and movement mechanics
-
-Check out our GitHub repository to explore the code, contribute, or simply get inspired. Your feedback and contributions are more than welcome!
-
-🔗 [Classy Clash on GitHub](https://github.com/yourusername/ClassyClash)
-
-Let’s make Classy Clash a game to remember! Feel free to share your thoughts and experiences.
-
-#GameDevelopment #ClassyClash #Raylib #OpenSource #Gaming #CPlusPlus #GitHub #IndieDev
-
----
-
-Feel free to adjust the content according to your specific details and preferences. If you need further customization or have any questions, let me know!
-
