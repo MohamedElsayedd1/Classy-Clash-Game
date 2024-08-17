@@ -1,33 +1,33 @@
 # Classy-Clash-Game
 Classy Clash is an engaging action game developed using raylib. The game features a strategic blend of combat and movement, allowing players to navigate a rich environment while battling various enemies.
 
-## Directory Layout: 
+# Directory Layout
 
 ClassyClash/
 ├── src/
-│   ├── main.cpp
-│   ├── Character.cpp
-│   ├── Character.h
-│   ├── Enemy.cpp
-│   ├── Enemy.h
-│   ├── Prop.cpp
-│   ├── Prop.h
-│   ├── BaseCharacter.cpp
-│   └── BaseCharacter.h
+│ ├── main.cpp
+│ ├── Character.cpp
+│ ├── Character.h
+│ ├── Enemy.cpp
+│ ├── Enemy.h
+│ ├── Prop.cpp
+│ ├── Prop.h
+│ ├── BaseCharacter.cpp
+│ └── BaseCharacter.h
 ├── assets/
-│   ├── textures/
-│   │   ├── nature_tileset/
-│   │   │   ├── background.png
-│   │   │   ├── rock.png
-│   │   │   └── log.png
-│   │   ├── characters/
-│   │   │   ├── knight_idle_spritesheet.png
-│   │   │   ├── knight_run_spritesheet.png
-│   │   │   ├── goblin_idle_spritesheet.png
-│   │   │   ├── goblin_run_spritesheet.png
-│   │   │   ├── slime_idle_spritesheet.png
-│   │   │   └── slime_run_spritesheet.png
-│   │   └── weapon_sword.png
+│ ├── textures/
+│ │ ├── nature_tileset/
+│ │ │ ├── background.png
+│ │ │ ├── rock.png
+│ │ │ └── log.png
+│ │ ├── characters/
+│ │ │ ├── knight_idle_spritesheet.png
+│ │ │ ├── knight_run_spritesheet.png
+│ │ │ ├── goblin_idle_spritesheet.png
+│ │ │ ├── goblin_run_spritesheet.png
+│ │ │ ├── slime_idle_spritesheet.png
+│ │ │ └── slime_run_spritesheet.png
+│ │ └── weapon_sword.png
 ├── README.md
 ├── LICENSE
 └── .gitignore
