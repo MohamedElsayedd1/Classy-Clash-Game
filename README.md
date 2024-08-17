@@ -5,7 +5,7 @@ Classy Clash is an engaging action game developed using raylib. The game feature
 </p>
 
 ## Directory Layout:
- ```
+ `    ``
      ClassyClash/
      ├── src/
      │   ├── main.cpp
@@ -26,7 +26,7 @@ Classy Clash is an engaging action game developed using raylib. The game feature
      ├── LICENSE
      └── .gitignore
      ```
-     
+
 ## Features
 
 - **Character Movement**: Move the main character using keyboard controls.
@@ -109,108 +109,3 @@ Enjoy playing Classy Clash!
 ```
 
 
-### Setting Up the Repository
-
-1. **Initialize the Repository:**
-    ```bash
-    git init
-    ```
-
-2. **Add and Commit Files:**
-    ```bash
-    git add .
-    git commit -m "Initial commit"
-    ```
-
-3. **Create a New Repository on GitHub:**
-   - Go to GitHub and create a new repository named `ClassyClash`.
-
-4. **Push to GitHub:**
-    ```bash
-    git remote add origin https://github.com/MohamedElsayedd1/ClassyClash.git
-    git push -u origin main
-    ```
-
-
-
-You've provided a substantial amount of C++ code for a game project called "Classy Clash" using the raylib library. This includes implementations for game characters, enemies, props, and main game logic. To share this project on GitHub and LinkedIn, follow these steps:
-
-### GitHub Repository Setup
-
-1. **Create a New Repository:**
-   - Go to GitHub and create a new repository named `ClassyClash`.
-
-2. **Repository Structure:**
-   - Your repository should be organized to make it easy for others to understand and contribute. Here’s a suggested structure:
-
-     ```
-     ClassyClash/
-     ├── src/
-     │   ├── main.cpp
-     │   ├── Character.cpp
-     │   ├── Character.h
-     │   ├── Enemy.cpp
-     │   ├── Enemy.h
-     │   ├── Prop.cpp
-     │   ├── Prop.h
-     │   ├── BaseCharacter.cpp
-     │   └── BaseCharacter.h
-     ├── assets/
-     │   ├── textures/
-     │   │   ├── nature_tileset/
-     │   │   ├── characters/
-     │   │   └── weapon_sword.png
-     ├── README.md
-     ├── LICENSE
-     └── .gitignore
-     ```
-
-   - Place all your `.cpp` and `.h` files in the `src` directory.
-   - Organize your texture assets in the `assets` directory.
-
-3. **Add a README.md:**
-   - Create a `README.md` file to describe the project. Here's a basic template:
-
-     ```markdown
-     # Classy Clash
-
-     Classy Clash is a strategic action game built using raylib. The game features various characters and enemies, with gameplay involving movement, combat, and collision detection.
-
-     ## Features
-     - Character and enemy movement
-     - Collision detection
-     - Simple combat mechanics
-
-     ## Getting Started
-     1. Clone the repository: `git clone https://github.com/yourusername/ClassyClash.git`
-     2. Navigate to the `src` directory.
-     3. Compile and run the game using raylib.
-
-     ## Contributing
-     Feel free to submit issues or pull requests. Contributions are welcome!
-
-     ## License
-     This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-     ```
-
-4. **Add a .gitignore File:**
-   - Create a `.gitignore` file to ignore unnecessary files. Here's an example:
-
-     ```
-     *.o
-     *.exe
-     *.out
-     *.log
-     ```
-
-5. **Push Your Code to GitHub:**
-   - Initialize git, commit your changes, and push to GitHub:
-
-     ```bash
-     git init
-     git add .
-     git commit -m "Initial commit"
-     git branch -M main
-     git remote add origin https://github.com/yourusername/ClassyClash.git
-     git push -u origin main
-     ```
