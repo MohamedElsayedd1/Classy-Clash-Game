@@ -4,6 +4,29 @@ Classy Clash is an engaging action game developed using raylib. The game feature
     <img src="https://github.com/MohamedElsayedd1/Classy-Clash-Game/blob/main/Gameplay%20Gif.gif" width="600" />
 </p>
 
+## Directory Layout:
+ ```
+     ClassyClash/
+     ├── src/
+     │   ├── main.cpp
+     │   ├── Character.cpp
+     │   ├── Character.h
+     │   ├── Enemy.cpp
+     │   ├── Enemy.h
+     │   ├── Prop.cpp
+     │   ├── Prop.h
+     │   ├── BaseCharacter.cpp
+     │   └── BaseCharacter.h
+     ├── assets/
+     │   ├── textures/
+     │   │   ├── nature_tileset/
+     │   │   ├── characters/
+     │   │   └── weapon_sword.png
+     ├── README.md
+     ├── LICENSE
+     └── .gitignore
+     ```
+     
 ## Features
 
 - **Character Movement**: Move the main character using keyboard controls.
@@ -110,5 +133,112 @@ Enjoy playing Classy Clash!
 
 
 
+You've provided a substantial amount of C++ code for a game project called "Classy Clash" using the raylib library. This includes implementations for game characters, enemies, props, and main game logic. To share this project on GitHub and LinkedIn, follow these steps:
 
+### GitHub Repository Setup
+
+1. **Create a New Repository:**
+   - Go to GitHub and create a new repository named `ClassyClash`.
+
+2. **Repository Structure:**
+   - Your repository should be organized to make it easy for others to understand and contribute. Here’s a suggested structure:
+
+     ```
+     ClassyClash/
+     ├── src/
+     │   ├── main.cpp
+     │   ├── Character.cpp
+     │   ├── Character.h
+     │   ├── Enemy.cpp
+     │   ├── Enemy.h
+     │   ├── Prop.cpp
+     │   ├── Prop.h
+     │   ├── BaseCharacter.cpp
+     │   └── BaseCharacter.h
+     ├── assets/
+     │   ├── textures/
+     │   │   ├── nature_tileset/
+     │   │   ├── characters/
+     │   │   └── weapon_sword.png
+     ├── README.md
+     ├── LICENSE
+     └── .gitignore
+     ```
+
+   - Place all your `.cpp` and `.h` files in the `src` directory.
+   - Organize your texture assets in the `assets` directory.
+
+3. **Add a README.md:**
+   - Create a `README.md` file to describe the project. Here's a basic template:
+
+     ```markdown
+     # Classy Clash
+
+     Classy Clash is a strategic action game built using raylib. The game features various characters and enemies, with gameplay involving movement, combat, and collision detection.
+
+     ## Features
+     - Character and enemy movement
+     - Collision detection
+     - Simple combat mechanics
+
+     ## Getting Started
+     1. Clone the repository: `git clone https://github.com/yourusername/ClassyClash.git`
+     2. Navigate to the `src` directory.
+     3. Compile and run the game using raylib.
+
+     ## Contributing
+     Feel free to submit issues or pull requests. Contributions are welcome!
+
+     ## License
+     This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+     ```
+
+4. **Add a .gitignore File:**
+   - Create a `.gitignore` file to ignore unnecessary files. Here's an example:
+
+     ```
+     *.o
+     *.exe
+     *.out
+     *.log
+     ```
+
+5. **Push Your Code to GitHub:**
+   - Initialize git, commit your changes, and push to GitHub:
+
+     ```bash
+     git init
+     git add .
+     git commit -m "Initial commit"
+     git branch -M main
+     git remote add origin https://github.com/yourusername/ClassyClash.git
+     git push -u origin main
+     ```
+
+### LinkedIn Post
+
+Once your GitHub repository is set up, you can craft a LinkedIn post to share your project. Here’s a draft:
+
+---
+
+🚀 **Exciting News from the Classy Clash Development Team!** 🎮
+
+We’re thrilled to share our latest project: **Classy Clash**, an engaging action game developed using raylib! Dive into a world where strategy meets excitement. Test your skills against various enemies and explore a beautifully crafted game world.
+
+🔹 **Features:**
+- Dynamic character and enemy interactions
+- Intricate collision detection
+- Immersive combat and movement mechanics
+
+Check out our GitHub repository to explore the code, contribute, or simply get inspired. Your feedback and contributions are more than welcome!
+
+🔗 [Classy Clash on GitHub](https://github.com/yourusername/ClassyClash)
+
+Let’s make Classy Clash a game to remember! Feel free to share your thoughts and experiences.
+
+#GameDevelopment #ClassyClash #Raylib #OpenSource #Gaming #CPlusPlus #GitHub #IndieDev
+
+---
+
+Feel free to adjust the content according to your specific details and preferences. If you need further customization or have any questions, let me know!
 
