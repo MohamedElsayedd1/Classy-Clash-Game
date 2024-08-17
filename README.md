@@ -32,10 +32,6 @@ ClassyClash/
 ├── LICENSE
 └── .gitignore
 
-# Classy Clash
-
-Classy Clash is an engaging action game developed using raylib. The game features a strategic blend of combat and movement, allowing players to navigate a rich environment while battling various enemies.
-
 ## Features
 
 - **Character Movement**: Move the main character using keyboard controls.
