@@ -4,6 +4,13 @@ Classy Clash is an engaging action game developed using raylib. The game feature
     <img src="https://github.com/MohamedElsayedd1/Classy-Clash-Game/blob/main/Gameplay%20Gif.gif" width="600" />
 </p>
 
+## Features
+
+- **Character Movement**: Move the main character using keyboard controls.
+- **Enemy AI**: Enemies track and attack the main character based on proximity.
+- **Collision Detection**: Real-time collision detection between characters, props, and weapons.
+- **Combat Mechanics**: Simple combat system allowing players to defeat enemies with a sword.
+
 **Directory Layout:**
 
 ```
@@ -36,13 +43,6 @@ ClassyClash/
 ├── LICENSE
 └── .gitignore
 ```
-
-## Features
-
-- **Character Movement**: Move the main character using keyboard controls.
-- **Enemy AI**: Enemies track and attack the main character based on proximity.
-- **Collision Detection**: Real-time collision detection between characters, props, and weapons.
-- **Combat Mechanics**: Simple combat system allowing players to defeat enemies with a sword.
 
 ## Getting Started
 
