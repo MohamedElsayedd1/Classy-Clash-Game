@@ -1,6 +1,8 @@
 # Classy Clash
-
 Classy Clash is an engaging action game developed using raylib. The game features a strategic blend of combat and movement, allowing players to navigate a rich environment while battling various enemies.
+<p align="center">
+    <img src="https://github.com/MohamedElsayedd1/Classy-Clash-Game/blob/main/Gameplay%20Gif.gif" width="600" />
+</p>
 
 ## Features
 
