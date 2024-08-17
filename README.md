@@ -45,7 +45,7 @@ To get started with Classy Clash, you'll need to have [raylib](https://www.rayli
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/ClassyClash.git
+    git clone https://github.com/MohamedElsayedd1/ClassyClash.git
     ```
 
 2. **Navigate to the `src` Directory**:
